@@ -147,6 +147,15 @@ main{
         margin-block: 81px;
     }
 
+    .tema img {
+        width: 24px;
+    }
+
+    .tema button {
+        width: 48px;
+        height: 28px;
+    }
+
     main {
         display: flex;
         max-width: 1160px;
@@ -166,9 +175,14 @@ main{
         font-size: 20px;
     }
 
+    .assuntos {
+        gap: 24px;
+    }
+
     .assuntos button {
         font-size: 28px;
         padding: 20px;
+        gap: 32px;
     }
 
     .assuntos button div {
