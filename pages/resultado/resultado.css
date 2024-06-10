@@ -15,7 +15,7 @@
     --primary-text-color: #313e51;
     --secondary-text-color: #626c7f;
     --pontuacao-bg: #fff;
-    --shadow: 0px 16px 40px 0px rgba(143, 168, 193, 0.14);
+    --shadow: 0px 16px 40px 0px rgba(143, 160, 193, 0.14);
     --bg-html: #fff1e9;
     --bg-css: #e0fdef;
     --bg-javascript: #ebf0ff;
@@ -246,7 +246,6 @@ main button:hover {
 
     .pontuacao p {
         font-size: 24px;
-        color: var(--secondary-text-color);
     }
 
     main button {
